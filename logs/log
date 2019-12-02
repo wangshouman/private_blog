@@ -1,0 +1,871 @@
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [30/Nov/2019 17:48:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:33:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:35:56] "GET / HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:35:56] "GET / HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:35:57] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:36:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:36:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:36:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:36:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:36:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:36:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:09] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:09] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:09] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:51] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:37:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:39:02] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:39:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 10:39:06] "GET / HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:09] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:09] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 14:55:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:11:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:11:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:11:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:11:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:11:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:11:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:11:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:11:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:11:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:11] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:13:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:14:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:14:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:14:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:14:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:16:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:16:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:16:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:19:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:20:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:21:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:21:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:21:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:23:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:23:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:23:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:23:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:23:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:24:07] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:24:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:24:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:29] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:29] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:30] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:30] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:47] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:47] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:25:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:26:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:26:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:26:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:26:20] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:26:20] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:26:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:27:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:27:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:27:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:27:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:27:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:28:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:28:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:28:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:28:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:32:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:32:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:32:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:32:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:32:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:32:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:36:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:36:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:36:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:36:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:37:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:37:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:37:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:37:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:37:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:37:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:11] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:30] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:30] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:30] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:30] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:47] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:47] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:38:47] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:40:47] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:40:47] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:40:47] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:40:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:40:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:40:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:40:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:40:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:24] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:51] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:51] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:41:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:42:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:42:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:42:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:42:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:44:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:44:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:44:07] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:44:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:44:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:44:35] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:44:35] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:44:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:45:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:45:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:45:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:45:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:45:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:45:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:45:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:45:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:20] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:37] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:37] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:47:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:49:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:49:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:49:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:49:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:49:57] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:50:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:51:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:51:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:51:18] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:51:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:51:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:51:18] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:52:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:52:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:52:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:52:43] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:53:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:56:35] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:56:35] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:56:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:56:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:56:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:57:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:57:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:57:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 15:57:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:19:02] "GET / HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:19:02] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:20:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:20:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:20:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:33] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:34] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:34] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:52] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:53] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:31:53] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:32:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:32:43] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:32:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:32:44] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:33:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:33:19] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:33:19] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:33:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:33:19] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:33:19] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:33:20] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:33:20] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:33:20] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:06] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:06] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:06] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:06] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:07] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:07] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:07] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:07] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:08] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:08] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:27] "GET /news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:27] "GET /news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:28] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:28] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:28] "GET /news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:28] "GET /news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:39] "GET /templates/news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:39] "GET /templates/news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:39] "GET /templates/news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:39] "GET /templates/news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:40] "GET /templates/news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:40] "GET /templates/news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:40] "GET /templates/news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:34:40] "GET /templates/news/js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:35:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:35:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:35:36] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:35:36] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:35:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:35:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:35:39] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:35:39] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:44] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:45] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:45] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:45] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:45] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:45] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:45] "GET /js/index.js HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:36:54] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:04] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:04] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:04] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:05] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:05] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:06] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:33] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:40:33] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:05] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:06] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:06] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:53] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:56] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:56] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:56] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:56] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:58] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:58] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:58] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:41:59] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:36] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:37] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:53] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:56] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:42:56] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:56] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:56] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:57] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:57] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:57] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:58] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:59] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:46:59] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:00] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:00] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:26] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:26] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:32] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:32] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:32] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:32] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:32] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:55] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:55] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:47:55] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:41] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:42] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:42] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:42] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:42] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:43] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:48:43] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:01] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:15] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:16] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:16] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:51] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:49:51] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:56:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:56:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:56:05] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:56:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:56:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:56:06] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:56:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:56:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:56:16] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:21] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:21] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:23] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:24] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:24] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:24] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:24] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:24] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:57:33] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:59:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:59:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 16:59:59] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:00:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:00:00] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:00:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:00:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:00:00] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:37:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:37:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:37:41] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:37:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:37:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:37:45] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:37:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:37:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:37:52] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:43:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:43:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:43:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:43:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:43:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:43:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:43:35] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:43:35] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:43:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:44:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:44:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:45:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:45:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:45:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:45:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:45:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:45:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:47:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:47:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:47:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:47:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:47:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:47:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:51:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:51:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:51:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:51:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:51:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:52:02] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:52:02] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:52:02] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:52:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:52:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:53:02] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:53:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:53:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:53:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:53:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:54:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:54:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:54:59] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:57:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:57:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:57:12] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:57:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:57:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:57:13] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:59:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 17:59:32] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:49:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:49:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:49:16] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:49:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:49:16] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:49:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:49:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:49:17] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:05] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:06] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:07] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:07] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:39] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:40] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:40] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:40] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:40] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:50:41] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:51:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:51:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:51:06] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:51:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:51:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:51:06] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:03] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:03] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:03] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:03] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:03] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:51] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:51] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:51] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:52] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:52] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:52:52] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:38] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:38] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:39] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:41] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:53:42] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:54:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:54:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:54:10] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:54:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:54:10] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:54:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:54:10] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:55:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:55:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:55:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:55:39] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:55:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:55:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:55:41] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:55:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:55:41] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:56:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 18:56:23] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:16:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:16:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:16:52] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:17:02] "GET /category HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:17:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:17:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:17:36] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:17:36] "GET /category HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:17:37] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:17:37] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:17:37] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:17:37] "GET /category HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:19:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:19:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:19:31] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:19:33] "GET /category HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:29:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:29:21] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:30:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:30:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:30:48] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:34:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:34:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:34:01] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:34:02] "GET /category HTTP/1.1" 500 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:34:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:34:06] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:34:06] "GET /category HTTP/1.1" 500 -
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:37:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:37:41] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:37:41] "GET /category HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in 'F:\\coding\\web_flask\\info\\modules\\index\\views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 304-507-385
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:39:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:39:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:39:17] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:39:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:39:22] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:39:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:39:22] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:39:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:39:22] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:41:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:41:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:41:52] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:41:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:41:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:41:53] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:41:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:41:53] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:01] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:39] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:39] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:40] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:40] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:42:41] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:21] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:21] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:22] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:22] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:43:27] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:45:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:45:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:45:45] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:45:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:45:46] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:45:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [02/Dec/2019 19:45:46] "GET /static/js/index.js HTTP/1.1" 200 -

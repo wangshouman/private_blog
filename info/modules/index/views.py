@@ -1,5 +1,6 @@
-from flask import render_template, current_app
+from flask import render_template, current_app, jsonify
 
+from info.models import Category
 from . import index_blue
 
 
@@ -10,4 +11,7 @@ def favicon():
 
 @index_blue.route('/index')
 def index():
-    return render_template('news/index.html')
+    # 查询出category表的数据
+    category_list = [_.name for _ in Category.query.all()]
+    return render_template('news/html/index.html', category_list=category_list)
+

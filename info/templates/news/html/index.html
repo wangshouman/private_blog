@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chen Xi</title>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <script src="../../../static/js/index.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        {#头部#}
+        <header>
+            <div class="name">
+                <span>A maverick pig</span>
+            </div>
+            <div class="category">
+                {% for item in category_list %}
+                    <div>
+                        <span onclick="btnCategory({{ loop.index }}, this)">{{ item }}</span>
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="search">
+                <input type="text" class="input-cls">
+                <span>search</span>
+            </div>
+        </header>
+        {#  中间内容  #}
+        <div class="content">
+            <section>
+
+
+
+            </section>
+
+        </div>
+
+
+
+    </div>
+    <script>
+
+
+
+
+
+
+
+    </script>
+</body>
+</html>
+<style>
+    body {
+        margin: 0px;
+        padding: 0px;
+        background-color: white;
+    }
+    .container {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        width: 100%;
+        height: 100%;
+    }
+    header {
+        background-color: black;
+        z-index: 1;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        color: white;
+    }
+    .name {
+        width: 30%;
+        z-index: 3;
+        color: #00A7EB;
+        font-size: 20px;
+        font-weight: bold;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .category {
+        width: 45%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-size: 18px;
+    }
+    .search {
+        width: 25%;
+        z-index: 3;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-right: 40px;
+    }
+    .input-cls {
+        border: 0px solid gray;
+        background-color: floralwhite;
+        margin-right: 10px;
+        height: 25px;
+        outline:none;
+        font-size: 15px;
+    }
+    .active span {
+        padding: 8px;
+    }
+    .active {
+        background-color: #00A7EB;
+        border-radius: 5px;
+    }
+
+</style>
