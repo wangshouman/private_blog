@@ -22,8 +22,8 @@
                 {% endfor %}
             </div>
             <div class="search">
-                <input type="text" class="input-cls">
-                <span>search</span>
+{#                <span onclick="btnLogin()">登录/注册</span>#}
+                <a href="{{ url_for('index.login_page') }}" class="login_btn">登录/注册</a>
             </div>
         </header>
         {#  中间内容  #}
@@ -111,5 +111,10 @@
         background-color: #00A7EB;
         border-radius: 5px;
     }
-
+    .login_btn {
+        font-size: 18px;
+        text-decoration: none;
+        color: #00A7EB;
+        font-weight: bold;
+    }
 </style>

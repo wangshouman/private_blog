@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>登录/注册</title>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <script src="../../../static/js/index.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="login-form">
+            <div class="header">
+                <span>登录</span>
+                <span>注册</span>
+            </div>
+            <div class="input-name-pwd">
+                <div class="input-username">
+                    <input type="text"  placeholder="手机号/邮箱/用户名" id="username">
+                </div>
+                <div>
+                    <input type="password" placeholder="密码" id="password">
+                </div>
+            </div>
+            <div class="pwd-operate">
+                <div class="log-pwd">
+                    <label class="label"><input name="Fruit" type="checkbox" value="" />记住密码 </label>
+                </div>
+                <div>
+                    <a href="javascript:;" style="text-decoration: none; color: white;">忘记密码?</a>
+                </div>
+            </div>
+            <div class="btn" onclick="btnLogin()">
+                <span class="btnLogin" >登录</span>
+            </div>
+            <div>
+            <div class="label">
+                <p style="color: white;">------  使用合作账户登录   ------</p>
+            </div>
+            <div class="img-list">
+                <img src="../../../static/img/Wechat_96px_1230528_easyicon.net.png" alt="">
+                <img src="../../../static/img/QQ_128px_1230490_easyicon.net.png" alt="">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+<style>
+    body {
+        margin: 0px;
+        padding: 0px;
+        background: url("../../../static/img/img.jpg") no-repeat center center;
+        background-attachment: fixed;
+        background-size: cover;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+    .container .login-form {
+        width: 50%;
+        height: 50%;
+    }
+
+    .header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .header > span {
+        width: 20%;
+        height: 40px;
+        background-color: gray;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid black;
+        margin-right: 5px;
+    }
+    .input-name-pwd {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        margin-top: 40px;
+        width: 50%;
+        height: 20%;
+    }
+    .input-name-pwd > div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .input-name-pwd > div > input {
+        width: 40%;
+        height: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+        border:0;
+        -webkit-apprarance:none;
+    }
+    .pwd-operate {
+        width: 30%;
+        display: flex;
+        justify-content: space-around;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        margin-top: 160px;
+        color: white;
+        font-size: 14px;
+    }
+    .label {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 200px;
+        z-index: 10;
+    }
+    .btnLogin {
+        width: 40%;
+        height: 35px;
+        background-color: darkgreen;
+        display: inline-block;
+        opacity: 0.8;
+        text-align: center;
+        line-height: 35px;
+        color: white;
+        border-radius: 5px;
+
+    }
+    .img-list {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 10%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+    .img-list img {
+        width: 40px;
+        height: 40px;
+    }
+    .input-username input {
+        display: inline;
+    }
+    .prompt {
+        display: inline;
+
+    }
+
+</style>
