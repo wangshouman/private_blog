@@ -5,12 +5,26 @@ function btnCategory(index, that) {
     $(that).parent('div').addClass("active");
     $(that).parent('div').siblings().removeClass("active")
     console.log(index)
-}
+};
+
+function btnDetail1() {
+    const news_id = 2
+    $.ajax({
+        url: `/getArticle/${news_id}`,
+        type: "GET",
+        contentType: "application/json",
+        success: function (resp) {
+           console.log("uuu");
+           window.location.href="/detail"
+        },
+        fail: function (error) {
+            console.log(error)
+        }
+    })
+};
 
 function btnLogin() {
     // 点击登陆按钮，弹出登录框
-
-
     const username = $("#username").val() || '';
     const password = $("#password").val() || '';
     console.log("3333")
@@ -37,5 +51,4 @@ function btnLogin() {
             console.log(error)
         }
     })
-
-}
+};

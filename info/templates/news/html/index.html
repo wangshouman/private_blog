@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <title>Chen Xi</title>
-    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
-    <script src="../../../static/js/index.js"></script>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
 </head>
 <body>
-    <div class="container">
+
+    <div class="container-item">
         {#头部#}
-        <header>
+        <header id="header">
             <div class="name">
                 <span>A maverick pig</span>
             </div>
@@ -26,37 +27,117 @@
                 <a href="{{ url_for('index.login_page') }}" class="login_btn">登录/注册</a>
             </div>
         </header>
+        <header id="header-mobile" style="display: none">
+            <div>
+                <span>A maverick pig</span>
+            </div>
+
+        </header>
         {#  中间内容  #}
         <div class="content">
-            <section>
+            {% for new in range(5) %}
+                <section class="info" onclick="btnDetail1()">
+                    <div class="info-header">
+                        <span>Python</span>
+                        <h4>2019 年终总结</h4>
+                    </div>
+                    <div class="info-content">
+                        <div class="info-img">
+                            <img src="../../../static/img/MyLove.ico" alt="">
+                        </div>
+                        <div class="info-border">
+                            <p class="info-digest info-img">
+                                Gerapy 分布式管理 我们可以通过 Scrapyd-Client 将 Scrapy 项目部署到 Scrapyd 上，并且可以通过 Scrapyd API 来控制 Scrapy 的运行。那么，我们是否可以做到更优化？方法是否可以更方便可控？ 我们重新分析一下当前可以优...
+                            </p>
+                        </div>
 
-
-
-            </section>
-
+                    </div>
+                    <div class="info-footer">
+                        <div>
+                            <i class="fa fa-user-o" aria-hidden="true"></i>
+                            <span>汪守满</span>
+                        </div>
+                        <div>
+                            <i class="fa fa-clock-o" aria-hidden="true"></i>
+                            <span>2019-12-14</span>
+                        </div>
+                        <div>
+                            <i class="fa fa-eye" aria-hidden="true"></i>
+                            <span>10浏览</span>
+                        </div>
+                        <div>
+                            <i class="fa fa-comment-o" aria-hidden="true"></i>
+                            <span>1评论</span>
+                        </div>
+                        <div>
+                            <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+                            <span>1点赞</span>
+                        </div>
+                    </div>
+                </section>
+            {% endfor %}
+            <div class="pagination">
+                <nav aria-label="Page navigation">
+                  <ul class="pagination pagination-lg">
+                    <li>
+                      <a href="#" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                      </a>
+                    </li>
+                    <li><a href="#">1</a></li>
+                    <li><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li><a href="#">4</a></li>
+                    <li><a href="#">5</a></li>
+                    <li>
+                      <a href="#" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                      </a>
+                    </li>
+                  </ul>
+                </nav>
+            </div>
         </div>
 
 
-
     </div>
-    <script>
-
-
-
-
-
-
-
-    </script>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <script src="../../../static/js/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+    <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
 <style>
+    {#@media screen and (max-width: 1200px){#}
+    {#    #header {#}
+    {#        display: none;#}
+    {#    }#}
+    {#    body {#}
+    {#        font-size: 16px;#}
+    {#    }#}
+    {#}#}
+    {#@media screen and (min-width: 1200px){#}
+    {#    #header-mobile {#}
+    {#        display: none;#}
+    {##}
+    {#    }#}
+    {#    body {#}
+    {#        font-size: 14px;#}
+    {#    }#}
+    {#}#}
+    p {
+        margin: 0rem;
+        padding: 0rem;
+
+    }
     body {
         margin: 0px;
         padding: 0px;
         background-color: white;
+        font-size: 14px;
     }
-    .container {
+    .container-item {
         position: absolute;
         top: 0px;
         right: 0px;
@@ -117,4 +198,72 @@
         color: #00A7EB;
         font-weight: bold;
     }
+    img {
+
+    }
+    .content {
+        margin: 0 auto;
+        {#background-color: #00A7EB;#}
+        width: 50%;
+        margin-top: 1rem;
+
+    }
+    .content > .info {
+        padding: .6rem;
+        background-color: antiquewhite;
+        margin-bottom: 1.3rem;
+        border-radius: .3rem;
+    }
+    .info-header {
+
+    }
+    .info-header > h4 {
+        display: inline-block;
+        margin-left: .4rem;
+    }
+    .info-content {
+        display: flex;
+        {#align-items: center;#}
+    }
+    .info-img  {
+        display: inline-block;
+    }
+    .info-img > img {
+        width: 10rem;
+        height: 7rem;
+        border-radius: .5rem;
+    }
+    .info-border {
+        height: 5rem;
+    }
+    .info-digest {
+        margin-left: 1rem;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+　　　　　word-wrap:break-word;
+　　　　　word-break:break-all;
+
+    }
+    .info-footer {
+        display: flex;
+        justify-content: flex-end;
+        margin-right: .5rem;
+    }
+    .info-footer > div {
+        margin-right: 1rem;
+    }
+    .pagination {
+        display: flex;
+        justify-content: center;
+        position: fixed;
+        bottom: -.3rem;
+        right: 50%;
+        transform: translateX(50%);
+
+    }
+
+
 </style>
