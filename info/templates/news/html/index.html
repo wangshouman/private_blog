@@ -17,8 +17,8 @@
             </div>
             <div class="category">
                 {% for item in category_list %}
-                    <div>
-                        <span onclick="btnCategory({{ loop.index }}, this)">{{ item }}</span>
+                    <div onclick="btnCategory({{ loop.index }}, this)">
+                        <span >{{ item }}</span>
                     </div>
                 {% endfor %}
             </div>
@@ -35,7 +35,7 @@
         </header>
         {#  中间内容  #}
         <div class="content">
-            {% for new in range(5) %}
+            {% for new in range(8) %}
                 <section class="info" onclick="btnDetail1()">
                     <div class="info-header">
                         <span>Python</span>
@@ -76,28 +76,7 @@
                     </div>
                 </section>
             {% endfor %}
-            <div class="pagination">
-                <nav aria-label="Page navigation">
-                  <ul class="pagination pagination-lg">
-                    <li>
-                      <a href="#" aria-label="Previous">
-                        <span aria-hidden="true">&laquo;</span>
-                      </a>
-                    </li>
-                    <li><a href="#">1</a></li>
-                    <li><a href="#">2</a></li>
-                    <li><a href="#">3</a></li>
-                    <li><a href="#">4</a></li>
-                    <li><a href="#">5</a></li>
-                    <li>
-                      <a href="#" aria-label="Next">
-                        <span aria-hidden="true">&raquo;</span>
-                      </a>
-                    </li>
-                  </ul>
-                </nav>
-            </div>
-        </div>
+
 
 
     </div>
@@ -168,6 +147,11 @@
         justify-content: space-around;
         align-items: center;
         font-size: 18px;
+        height: 5rem;
+    }
+    .category > div {
+        height: 5rem;
+        line-height: 5rem;
     }
     .search {
         width: 25%;
@@ -190,7 +174,7 @@
     }
     .active {
         background-color: #00A7EB;
-        border-radius: 5px;
+        border-radius: .1px;
     }
     .login_btn {
         font-size: 18px;
@@ -262,7 +246,6 @@
         bottom: -.3rem;
         right: 50%;
         transform: translateX(50%);
-
     }
 
 

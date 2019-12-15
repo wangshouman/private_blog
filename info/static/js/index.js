@@ -1,9 +1,16 @@
 var isDialog = false
-
+$(window).scroll(function () {
+    const windowH = $(window).height();
+    const documentH = $(document).height();
+    const scrollH = $(window).scrollTop();
+    if (windowH+scrollH>=documentH) {
+        console.log("2222")
+    }
+});
 function btnCategory(index, that) {
     //获取当前的分类ID
-    $(that).parent('div').addClass("active");
-    $(that).parent('div').siblings().removeClass("active")
+    $(that).addClass("active");
+    $(that).siblings().removeClass("active")
     console.log(index)
 };
 

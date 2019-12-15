@@ -1484,3 +1484,152 @@ INFO _internal.py:122 10.142.0.12 - - [14/Dec/2019 16:53:23] "GET /detail HTTP/1
 INFO _internal.py:122 10.142.0.12 - - [14/Dec/2019 16:53:37] "GET /getArticle/2 HTTP/1.1" 302 -
 INFO _internal.py:122 10.142.0.12 - - [14/Dec/2019 16:53:37] "GET /detail HTTP/1.1" 200 -
 INFO _internal.py:122 10.142.0.12 - - [14/Dec/2019 16:53:37] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 172-486-207
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:15:19] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:15:19] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:15:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:15:25] "GET /static/img/MyLove.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:15:25] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:15:26] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:15:26] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:15:26] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:16:09] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:16:09] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:16:09] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:16:28] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:16:28] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:16:28] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:16:41] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:16:41] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [14/Dec/2019 20:16:41] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 172-486-207
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:44:11] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:44:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:44:17] "GET /static/img/MyLove.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:44:17] "GET /static/js/index.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:44:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:44:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:11] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:11] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:11] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:11] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:15] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 05:46:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 172-486-207
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:04:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:04:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:04:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:20] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:47] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:47] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:47] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:47] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:47] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:05:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:02] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:02] "GET /static/img/MyLove.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:02] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:03] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:25] "GET /static/img/MyLove.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:25] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:27] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:27] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:27] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:06:28] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 172-486-207
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:07:20] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:07:50] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:07:50] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:07:50] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:12:03] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:12:04] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:12:07] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:12:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:12:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:12:33] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:12:33] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:12:33] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:14:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:14:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:14:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:14:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:15:20] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:15:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:15:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:15:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:16:48] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:16:48] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:16:48] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:16:48] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:25] "GET /index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /static/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:26] "GET /static/img/MyLove.ico HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 172-486-207
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:22:31] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:23:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:23:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:23:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:23:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:24:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:24:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:25:21] "GET /getArticle/2 HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:25:21] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:25:21] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:25:21] "GET /detail HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:25:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:25:23] "GET /static/img/MyLove.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/Dec/2019 06:25:23] "GET /static/js/index.js HTTP/1.1" 200 -
