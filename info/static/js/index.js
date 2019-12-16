@@ -21,7 +21,9 @@ function btnDetail1() {
         type: "GET",
         contentType: "application/json",
         success: function (resp) {
-           console.log("uuu");
+           console.log("uuu", resp.content);
+           // $('#html-content').html(resp.content);
+           // console.log("dddd");
            window.location.href="/detail"
         },
         fail: function (error) {

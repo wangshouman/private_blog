@@ -39,7 +39,10 @@ def detail_page():
 @index_blue.route('/getArticle/<int:news_id>', methods=['GET'])
 def get_article(news_id):
     print(news_id)
-    return redirect(url_for('index.detail_page'))
+    html_content = {
+        "content": "<p>在不能满足设备安全运行的恶劣天气，无法抗拒的自然灾害情况下"
+                   "（如雷电、雨雪、冰雹、大雾、暴雨、台风等），景区部分项目将临时关闭或部分关闭，表演会取消或部分取消。1</p><p>&nbsp;</p>"}
+    return jsonify(html_content)
 
 
 
