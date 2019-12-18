@@ -10,7 +10,7 @@ def favicon():
     return current_app.send_static_file('news/MyLove.ico')
 
 
-@index_blue.route('/index')
+@index_blue.route('/')
 def index():
     # 查询出category表的数据
     category_list = [_.name for _ in Category.query.all()]
