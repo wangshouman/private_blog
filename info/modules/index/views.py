@@ -1,6 +1,8 @@
-from flask import render_template, current_app, jsonify, request, redirect, url_for
+import hashlib
 
-from info.constants import resp_success
+from flask import render_template, current_app, jsonify, request, redirect, url_for, abort
+
+from info.constants import resp_success, WECHAT_TOKEN
 from info.models import Category
 from . import index_blue
 
@@ -43,6 +45,29 @@ def get_article(news_id):
         "content": "<p>在不能满足设备安全运行的恶劣天气，无法抗拒的自然灾害情况下"
                    "（如雷电、雨雪、冰雹、大雾、暴雨、台风等），景区部分项目将临时关闭或部分关闭，表演会取消或部分取消。1</p><p>&nbsp;</p>"}
     return jsonify(html_content)
+
+
+@index_blue.route('/wechatInfo')
+def wechat_info():
+    # 获取微信的信息
+    signature = request.args.get("signature")
+    timestamp = request.args.get("timestamp")
+    nonce = request.args.get("nonce")
+    echostr = request.args.get("echostr")
+
+    if not all([signature, timestamp, nonce, echostr]):
+        abort(400)
+
+    # 按照微信的要求排序
+    li = [WECHAT_TOKEN, timestamp, nonce]
+    # sha1加密
+    sign = hashlib.sha1("".join(li.sort())).hexdiges()
+    # 将计算的签名和微信值进行对比
+    if signature != sign:
+        abort(403)
+    else:
+        return echostr
+
 
 
 
