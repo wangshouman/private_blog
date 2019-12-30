@@ -1,6 +1,7 @@
 import hashlib
 
-from flask import render_template, current_app, jsonify, request, redirect, url_for, abort
+import xmltodict
+from flask import render_template, current_app, jsonify, request, redirect, url_for, abort, make_response
 
 from info.constants import resp_success, WECHAT_TOKEN
 from info.models import Category
@@ -14,6 +15,7 @@ def favicon():
 
 @index_blue.route('/')
 def index():
+    current_app.logger.info("1111")
     # 查询出category表的数据
     category_list = [_.name for _ in Category.query.all()]
     return render_template('news/html/index.html', category_list=category_list)
@@ -50,31 +52,70 @@ def get_article(news_id):
 @index_blue.route('/wechatInfo', methods=["GET", "POST"])
 def wechat_info():
     # 获取微信的信息
-    signature = request.args.get("signature")
-    timestamp = request.args.get("timestamp")
-    nonce = request.args.get("nonce")
-    echostr = request.args.get("echostr")
-
-    if not all([signature, timestamp, nonce, echostr]):
-        abort(400)
-    current_app.logger.info("1111")
-    # 按照微信的要求排序
-    li = [WECHAT_TOKEN, timestamp, nonce]
-    li.sort()
-    tmp_str = "".join(li)
-    # sha1加密
-    sign = hashlib.sha1(tmp_str).hexdiges()
-    # 将计算的签名和微信值进行对比
-    if signature != sign:
-        abort(403)
-    else:
-        if request.method == 'GET':
-            return echostr
+    print("333333")
+    xml_str = request.data
+    print("xml_str", xml_str)
+    print("request.method", request.method)
+    if request.method == 'GET':
+        signature = request.args.get("signature")
+        timestamp = request.args.get("timestamp")
+        nonce = request.args.get("nonce")
+        echostr = request.args.get("echostr")
+        current_app.logger.info("1111")
+        if not all([signature, timestamp, nonce, echostr]):
+            abort(400)
+        current_app.logger.info("1111")
+        # 按照微信的要求排序
+        li = [WECHAT_TOKEN, timestamp, nonce]
+        li.sort()
+        tmp_str = "".join(li)
+        # sha1加密
+        sign = hashlib.sha1(tmp_str.encode()).hexdigest()
+        # 将计算的签名和微信值进行对比
+        if signature != sign:
+            abort(403)
         else:
-            data = request.json
-            current_app.logger.info('data', data)
-            current_app.logger.info('url', request.url)
             return echostr
+    else:
+        xml_str = request.data
+        xml_dict = xmltodict.parse(xml_str).get('xml')
+        tmp_dict = dict()
+        for _k, _v in xml_dict.items():
+            tmp_dict[_k] = _v
+        print("tmp_dict", tmp_dict)
+        ToUserName = tmp_dict.get('ToUserName')
+        FromUserName = tmp_dict.get('FromUserName')
+        CreateTime = tmp_dict.get('CreateTime')
+        MsgType = tmp_dict.get('MsgType')
+        Content = '一起学习，一起进步！'
+        if MsgType == 'text':
+            Content = tmp_dict.get('Content')
+            MsgId = tmp_dict.get('MsgId')
+            print("Content", Content)
+        elif MsgType == 'image':
+            MsgId = tmp_dict.get('MsgId')
+            MediaId = tmp_dict.get('MediaId')
+            PicUrl = tmp_dict.get('PicUrl')
+            print("PicUrl", PicUrl)
+        elif MsgType == 'voice':
+            MediaId = tmp_dict.get('MediaId')
+            Format = tmp_dict.get('Format')
+            MsgId = tmp_dict.get('MsgId')
+            Recognition = tmp_dict.get('Recognition')
+        elif MsgType == 'event':
+            Event = tmp_dict.get('Event')
+            EventKey = tmp_dict.get('EventKey')
+
+        resp_str = """<xml>
+                      <ToUserName><![CDATA[toUser]]></ToUserName>
+                      <FromUserName><![CDATA[fromUser]]></FromUserName>
+                      <CreateTime>12345678</CreateTime>
+                      <MsgType><![CDATA[text]]></MsgType>
+                      <Content><![CDATA[你好]]></Content>
+                    </xml>"""
+        response = make_response(resp_str)
+        response.headers['content-type'] = 'application/xml'
+        return ''
 
 
 
