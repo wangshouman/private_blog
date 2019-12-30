@@ -14,3 +14,5 @@ resp_success = {
 }
 # 微信的token
 WECHAT_TOKEN = "CxColder"
+# 微信秘钥
+EncodingAESKey = "orpre9h6Td6gyyj30XurUT3YhnWIc0KTTDOoYNGR38p"

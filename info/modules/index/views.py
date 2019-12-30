@@ -47,7 +47,7 @@ def get_article(news_id):
     return jsonify(html_content)
 
 
-@index_blue.route('/wechatInfo')
+@index_blue.route('/wechatInfo', methods=["GET", "POST"])
 def wechat_info():
     # 获取微信的信息
     signature = request.args.get("signature")
@@ -57,16 +57,25 @@ def wechat_info():
 
     if not all([signature, timestamp, nonce, echostr]):
         abort(400)
-
+    current_app.logger.info("1111")
     # 按照微信的要求排序
     li = [WECHAT_TOKEN, timestamp, nonce]
+    li.sort()
+    tmp_str = "".join(li)
     # sha1加密
-    sign = hashlib.sha1("".join(li.sort())).hexdiges()
+    sign = hashlib.sha1(tmp_str).hexdiges()
     # 将计算的签名和微信值进行对比
     if signature != sign:
         abort(403)
     else:
-        return echostr
+        if request.method == 'GET':
+            return echostr
+        else:
+            data = request.json
+            current_app.logger.info('data', data)
+            current_app.logger.info('url', request.url)
+            return echostr
+
 
 
 
