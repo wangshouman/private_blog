@@ -1,5 +1,6 @@
 import hashlib
 
+import time
 import xmltodict
 from flask import render_template, current_app, jsonify, request, redirect, url_for, abort, make_response
 
@@ -51,11 +52,6 @@ def get_article(news_id):
 
 @index_blue.route('/wechatInfo', methods=["GET", "POST"])
 def wechat_info():
-    # 获取微信的信息
-    print("333333")
-    xml_str = request.data
-    print("xml_str", xml_str)
-    print("request.method", request.method)
     if request.method == 'GET':
         signature = request.args.get("signature")
         timestamp = request.args.get("timestamp")
@@ -82,7 +78,6 @@ def wechat_info():
         tmp_dict = dict()
         for _k, _v in xml_dict.items():
             tmp_dict[_k] = _v
-        print("tmp_dict", tmp_dict)
         ToUserName = tmp_dict.get('ToUserName')
         FromUserName = tmp_dict.get('FromUserName')
         CreateTime = tmp_dict.get('CreateTime')
@@ -106,16 +101,19 @@ def wechat_info():
             Event = tmp_dict.get('Event')
             EventKey = tmp_dict.get('EventKey')
 
-        resp_str = """<xml>
-                      <ToUserName><![CDATA[toUser]]></ToUserName>
-                      <FromUserName><![CDATA[fromUser]]></FromUserName>
-                      <CreateTime>12345678</CreateTime>
-                      <MsgType><![CDATA[text]]></MsgType>
-                      <Content><![CDATA[你好]]></Content>
-                    </xml>"""
-        response = make_response(resp_str)
-        response.headers['content-type'] = 'application/xml'
-        return ''
+        resp_dict = {
+            "xml": {
+                "ToUserName":  FromUserName,
+                "FromUserName": ToUserName,
+                "CreateTime": int(time.time()),
+                "MsgType": MsgType,
+                "Content": Content,
+            }
+        }
+
+        resp_xml_str = xmltodict.unparse(resp_dict)
+
+        return resp_xml_str
 
 
 

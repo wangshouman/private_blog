@@ -72,3 +72,14 @@ class Category(BaseModel, db.Model):
             "name": self.name
         }
         return resp_dict
+
+
+class Joke(BaseModel, db.Model):
+    """笑话表"""
+    __tablename__ = 'info_joke'
+    # 主键
+    id = db.Column(db.Integer, primary_key=True, index=True)
+    # 内容
+    joke_content = db.Column(db.String(256), unique=True)
+    # title 标题
+    title = db.Column(db.String(256), index=True)
